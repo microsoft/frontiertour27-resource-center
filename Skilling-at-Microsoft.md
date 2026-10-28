@@ -51,4 +51,46 @@ Keep building your skills after Frontier Tour 2027 with these global skilling pr
 </tr>
 </table>
 
+## Find your AI learning path
+
+### Amplify your intelligence
+Build the skills to connect your people, data, and AI. Explore learning resources on Microsoft Fabric IQ, AI fundamentals, Azure AI, and agentic workflows to help create smarter, context-aware solutions.
+
+[Explore data and AI skills](https://aka.ms/SkillsForDataInsights)
+
+### Agentify your business processes
+Build the skills to design intelligent agents that understand business context and drive real-world impact. Explore learning paths covering agentic AI, Power Platform automation, customer engagement, and AI-powered business solutions.
+
+[Explore business agent skills](https://aka.ms/SkillsForBusinessAgents)
+
+### Build a trusted foundation for AI
+Build the skills to unify, govern, and activate your data for AI. Explore learning resources covering Microsoft Fabric, OneLake, Fabric IQ, and AI agents to create a trusted foundation for innovation and business value.
+
+[Explore governed data and AI skills](https://aka.ms/SkillsForGovernedData)
+
+### Accelerate AI innovation
+Build the skills to create AI-powered applications and agents faster. Explore learning experiences covering GitHub Copilot, Microsoft Foundry, AI-native development, and responsible AI practices to accelerate innovation across your organization.
+
+[Explore apps and agent skills](https://aka.ms/SkillsforAppsandAgents)
+
+### Modernize with confidence
+Build the skills to modernize applications, data, and infrastructure for the AI era. Explore learning resources covering Azure migration, resiliency, modernization strategies, and AI-powered development to create a foundation for future innovation.
+
+[Explore modernization skills](https://aka.ms/SkillsforModernSolutions)
+
+### Build a trusted and secure AI foundation
+Build the skills to secure and govern AI across your organization. Explore learning resources covering identity management, Microsoft 365 Copilot and agent administration, data protection, and AI security strategies to help safeguard your AI investments.
+
+[Explore AI security skills](https://aka.ms/SkillsForaSecurePlatform)
+
+### Secure AI-powered productivity
+Build the skills to adopt AI securely across your organization. Explore learning resources covering Microsoft 365 Copilot, data protection, governance, identity management, and cybersecurity to help employees work smarter with confidence.
+
+[Explore secure productivity skills](https://aka.ms/SkillsForSecureProductivity)
+
+### Empower human ambition with AI
+Build the skills to confidently use and scale AI across your organization. Explore learning resources covering Microsoft 365 Copilot, AI agents, prompting, collaboration, and role-based AI adoption to drive productivity and business impact.
+
+[Explore Copilot and agent skills](https://aka.ms/SkillsForCopilotandAgents)
+
 Return to the [Frontier Tour 27 Resource Center](README.md).
